@@ -9,7 +9,7 @@ int whiteorblack()
 	int whiteorblack = rand() % 2;
 	return whiteorblack;
 }
-void menu()
+int board()
 {
 	int const ONE = 8;
 	int const TWO = 8;
