@@ -9,11 +9,13 @@ int whiteorblack()
 	int whiteorblack = rand() % 2;
 	return whiteorblack;
 }
-int game()
+void menu()
 {
 	
 }
+int game()
+{
+}
 int main()
 {
-
 }
