@@ -11,7 +11,17 @@ int whiteorblack()
 }
 int game()
 {
-	
+	int const ONE = 8;
+	int const TWO = 8;
+	int arr[ONE][TWO];
+	for (int x = 0; x < ONE; x++)
+	{
+		
+		for (int y = 0; y < TWO; y++)
+		{
+
+		}
+	}
 }
 int main()
 {
